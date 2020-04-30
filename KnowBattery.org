@@ -1,0 +1,13 @@
+# -*- coding: utf-8; -*-
+
+#+STARTUP: hidestars
+
+* Battery
+* Battery Managment System
+** AutoSAR
+** FunctionSafety
+* EcoSystem
+* Chipsets
+** Infinion Aurix
+* Innovations
+
